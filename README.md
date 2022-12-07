@@ -1,1 +1,1 @@
-# Homework_JS_1
+# Homework_JavaScript_Basics
